@@ -1,3 +1,3 @@
 # Chat-App---ChatOn
 
-https://guarded-falls-27961.herokuapp.com/
+ A multi-user real time chatting application using Node.Js and Socket.io.
